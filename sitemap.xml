@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://www.example.ph/</loc><lastmod>2026-07-30</lastmod><priority>1.0</priority></url>
+<url><loc>https://www.example.ph/about/</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.example.ph/blog/</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.example.ph/contact/</loc><lastmod>2026-07-30</lastmod><priority>0.9</priority></url>
+<url><loc>https://www.example.ph/free-tools/</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.example.ph/how-it-works/</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.example.ph/industries/</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.example.ph/industries/clinics/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/industries/construction/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/industries/home-services/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/industries/local-businesses/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/industries/professional-services/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/industries/real-estate/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/pricing/</loc><lastmod>2026-07-30</lastmod><priority>0.9</priority></url>
+<url><loc>https://www.example.ph/privacy/</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.example.ph/results/</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
+<url><loc>https://www.example.ph/services/</loc><lastmod>2026-07-30</lastmod><priority>0.9</priority></url>
+<url><loc>https://www.example.ph/services/automation/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/services/crm/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/services/hosting/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/services/seo-aeo/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/services/social-media-automation/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/services/website-development/</loc><lastmod>2026-07-30</lastmod><priority>0.7</priority></url>
+<url><loc>https://www.example.ph/terms/</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
+</urlset>
